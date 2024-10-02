@@ -20,6 +20,7 @@ export default function App() {
     else {
       setSymbol('x')
       console.warn(symbol)
+      console.log(symbol)
     }
   }
 
